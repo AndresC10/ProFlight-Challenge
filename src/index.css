@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}

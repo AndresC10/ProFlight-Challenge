@@ -1,0 +1,37 @@
+.logos-container {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.btn {
+    margin: 0;
+    padding: 0;
+    width: 113px;
+    height: 113px;
+    border-radius: 50%;
+    background: linear-gradient(233.16deg, #00B0CE -47.28%, rgba(0, 176, 206, 0.3) 73.34%)
+}
+
+.btn i {
+    font-size: 30px;
+    color: white;
+}
+
+.logo__li {
+    background: linear-gradient(233.16deg, #00B0CE -10.31%, rgba(0, 176, 206, 0.3) 110.31%);
+    border-radius: 25px;
+    opacity: .3;
+}
+
+.logo__li img {
+    position: relative;
+    top: 10px
+}
+
+.active {
+    opacity: 1;
+}
+
